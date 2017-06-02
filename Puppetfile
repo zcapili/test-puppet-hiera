@@ -6,4 +6,3 @@ mod 'profile',
    :git => 'https://github.com/zcapili/test-puppet-profiles.git'
 mode 'role',
    :git => 'https://github.com/zcapili/test-puppet-roles.git'
-dfhdjsfshj test kjfkdjfd
