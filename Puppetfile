@@ -6,3 +6,5 @@ mod 'profile',
    :git => 'https://github.com/zcapili/test-puppet-profiles.git'
 mod 'role',
    :git => 'https://github.com/zcapili/test-puppet-roles.git'
+mod 'puppetlabs-stdlib', '4.17.0'
+mod 'puppetlabs-concat', '4.0.0'
