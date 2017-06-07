@@ -1,6 +1,6 @@
 ---
 classes:
-  -::ntp
+  -ntp
 
 ntp::servers:
   -ntp1.corp.com
