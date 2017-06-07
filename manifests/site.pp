@@ -1,5 +1,7 @@
 hiera_include('classes',[])
 
+node default
+
 node 'zy-puppetmaster.buildandrelease.org' {
 	class { 'ntp':
 		servers => [ 'ntp1.corp.com', 'ntp2.corp.com' ],
