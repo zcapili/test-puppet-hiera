@@ -1,7 +1,7 @@
 ---
 classes:
-  -ntp
+  - ntp
 
 ntp::servers:
-  -ntp1.corp.com
-  -ntp2.corp.com
+  - ntp1.corp.com
+  - ntp2.corp.com
