@@ -1,6 +1,6 @@
 hiera_include('classes',[])
 
-node default
+node default {}
 
 node 'zy-puppetmaster.buildandrelease.org' {
 	class { 'ntp':
